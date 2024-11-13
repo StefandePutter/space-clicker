@@ -17,7 +17,7 @@ public class GameManager : MonoBehaviour
     public void AddScore(int amount)
     {
         score += amount;
-        
+        score = Mathf.Clamp(score, 0, score);
         scoreText.text = "Score: " + score;
     }
 

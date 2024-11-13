@@ -782,6 +782,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cricket (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 7837853606756367963, guid: c128bbbbe416e23408cf996f5d2b4789,
+        type: 3}
+      propertyPath: scoreLoss
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 8527472601189494449, guid: c128bbbbe416e23408cf996f5d2b4789,
         type: 3}
       propertyPath: m_LocalPosition.x

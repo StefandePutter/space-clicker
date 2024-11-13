@@ -101,9 +101,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aba351489cb8f054bb07d05de9e5e69d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speedX: -15
+  speedX: -10
   resetXPosition: 23
   scoreAmount: 150
+  scoreLoss: -10
 --- !u!61 &3077528135054115256
 BoxCollider2D:
   m_ObjectHideFlags: 0

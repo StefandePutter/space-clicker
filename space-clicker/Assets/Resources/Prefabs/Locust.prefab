@@ -104,6 +104,7 @@ MonoBehaviour:
   speedX: -5
   resetXPosition: 23
   scoreAmount: 50
+  scoreLoss: -50
 --- !u!61 &8802584616908873105
 BoxCollider2D:
   m_ObjectHideFlags: 0
